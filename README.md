@@ -64,12 +64,3 @@ LICENSE               # 项目许可证（MIT）
 
 - 作者：[byte](https://github.com/wangyihan-cn)
 - GitHub：[github.com/wangyihan-cn/Lottery-procedure](https://github.com/wangyihan-cn/Lottery-procedure)
-
-
-### 说明：
-
-1. **界面截图**：你可以将截图存放在项目的 `screenshots` 文件夹里，或者直接链接到外部截图。
-2. **使用方法**：简明扼要地描述了如何设置范围并使用软件。
-3. **安装与运行**：详细列出了如何安装所需的 Python 和运行程序的步骤。
-4. **项目结构**：展示了项目文件的结构，帮助开发者快速了解文件组织。
-5. **贡献和许可证**：鼓励贡献并提供许可证信息，符合开源项目的基本要求。
